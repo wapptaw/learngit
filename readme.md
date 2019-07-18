@@ -7,3 +7,6 @@
 ## git reset --hard 版本号
 ## git log
 ## git reflog
+## git reset HEAD
+## git checkout -- file_name
+## cat file_name

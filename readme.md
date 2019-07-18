@@ -6,6 +6,7 @@
 ## git reset --hard 版本号
 ## git log
 ## git reflog
+## git log --pretty-oneline
 ## git reset HEAD
 ## git checkout -- file_name
 ## cat file_name
@@ -22,3 +23,13 @@
 ## git log --graph
 ## git log --graph --pretty=oneline --abbrev-commit
 ## git merge --no-ff -m"注释" branch_name
+## git stash
+## git stash list
+## git stash apply
+## git stash drop
+## git stash pop
+## git branch -D branch_name 强制删除分支
+## git remote
+## git remote -v
+## git branch --set-upsteram-to branch_name 关联本地分支与远程分支
+## git pull

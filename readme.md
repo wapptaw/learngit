@@ -18,3 +18,5 @@
 ## git checkout branch_name
 ## git checkout -b branch_name
 ## git branch
+## git merge branch_name
+## git branch -d dev

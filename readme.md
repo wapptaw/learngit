@@ -13,3 +13,4 @@
 ## git remote add origin git@github.com/github_name/project_name
 ## git push -u origin master
 ## git push origin master
+## git clone git@github.com:github_name/project_name

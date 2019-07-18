@@ -21,3 +21,4 @@
 ## git branch -d dev
 ## git log --graph
 ## git log --graph --pretty=oneline --abbrev-commit
+## git merge --no-ff -m"注释" branch_name

@@ -14,3 +14,7 @@
 ## git push -u origin master
 ## git push origin master
 ## git clone git@github.com:github_name/project_name
+## git branch branch_name
+## git checkout branch_name
+## git checkout -b branch_name
+## git branch

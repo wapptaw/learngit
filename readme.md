@@ -1,6 +1,5 @@
 ## git add
 ## git commit -m '注释'
-为啥没用
 ## git diff file_name
 ## git status
 ## git reset --hard HEAD^（cmd里识别^会出错，需要加引号）
@@ -20,3 +19,5 @@
 ## git branch
 ## git merge branch_name
 ## git branch -d dev
+## git log --graph
+## git log --graph --pretty=oneline --abbrev-commit

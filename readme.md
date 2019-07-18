@@ -10,3 +10,6 @@
 ## git reset HEAD
 ## git checkout -- file_name
 ## cat file_name
+## git remote add origin git@github.com/github_name/project_name
+## git push -u origin master
+## git push origin master
